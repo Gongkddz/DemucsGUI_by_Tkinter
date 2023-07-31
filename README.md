@@ -12,3 +12,6 @@ Facebook团队的那个Demucs确实很好用，但是平常用命令行挺麻烦
 
 ## 目前存在的问题
 1. 似乎安装程序在某些特定情况下并不能完美运行
+
+## 核心链接
+https://github.com/facebookresearch/demucs
