@@ -1,3 +1,12 @@
+```
+██████╗  ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗██████╗ ██████╗ ███████╗
+██╔════╝ ██╔═══██╗████╗  ██║██╔════╝ ██║ ██╔╝██╔══██╗██╔══██╗╚══███╔╝
+██║  ███╗██║   ██║██╔██╗ ██║██║  ███╗█████╔╝ ██║  ██║██║  ██║  ███╔╝
+██║   ██║██║   ██║██║╚██╗██║██║   ██║██╔═██╗ ██║  ██║██║  ██║ ███╔╝
+╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║  ██╗██████╔╝██████╔╝███████╗
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝
+ ```
+
 # DemucsGUI_by_Tkinter
 Facebook团队的那个Demucs确实很好用，但是平常用命令行挺麻烦的不是吗？所以我用Python写了一个界面，基于Tkinter。</br>
 The Demucs by Facebook team is indeed very useful, but it can be quite cumbersome to use through the command line, isn't it? So, I wrote a Python interface for it, based on Tkinter.
